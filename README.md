@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am a Master's student at HMILab@PKU, supervised by Prof.Shanghang Zhang. My research focuses on 3D human modeling. I am particularly interested in the perception and synthesis of human motion and human-environment interactions, as well as driving digital humans and embodied intelligence through generated motion.
+
